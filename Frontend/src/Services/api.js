@@ -6,10 +6,8 @@ const api = axios.create({
   baseURL: API_BASE_URL,
 });
 
-// Add a request interceptor to include the auth token if needed
 api.interceptors.request.use(
-  (config) => {
-    // You can add authentication tokens here if needed
+  (config) => { 
     return config;
   },
   (error) => {
