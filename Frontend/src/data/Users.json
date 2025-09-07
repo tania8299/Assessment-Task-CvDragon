@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Abantika Sadhukhan",
+    "userId": "U#P002345",
+    "designation": ["UI/UX Designer", "Tester"],
+    "role": "Admin",
+    "features": "Room Booking Services, Utilities",
+    "status": "Active",
+    "email": "abantika@example.com",
+    "phone": "+91 98765 43210",
+    "location": "Kolkata, India",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "userId": "U#P002346",
+    "designation": ["Frontend Dev", "Tester"],
+    "role": "Editor",
+    "features": "Content Management, Dashboard Access",
+    "status": "Active",
+    "email": "rahul@example.com",
+    "phone": "+91 91234 56789",
+    "location": "Delhi, India",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Sneha Kapoor",
+    "userId": "U#P002347",
+    "designation": ["Backend Dev"],
+    "role": "Viewer",
+    "features": "Read-Only Access, Reports View",
+    "status": "Inactive",
+    "email": "sneha@example.com",
+    "phone": "+91 92345 67890",
+    "location": "Mumbai, India",
+    "avatar": "https://randomuser.me/api/portraits/women/65.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Arjun Mehta",
+    "userId": "U#P002348",
+    "designation": ["Full Stack Dev"],
+    "role": "Editor",
+    "features": "API Access, Content Updates",
+    "status": "Active",
+    "email": "arjun@example.com",
+    "phone": "+91 93456 78901",
+    "location": "Bangalore, India",
+    "avatar": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Priya Nair",
+    "userId": "U#P002349",
+    "designation": ["Project Manager"],
+    "role": "Admin",
+    "features": "Team Management, Reports",
+    "status": "Active",
+    "email": "priya@example.com",
+    "phone": "+91 94567 89012",
+    "location": "Chennai, India",
+    "avatar": "https://randomuser.me/api/portraits/women/21.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Rohit Verma",
+    "userId": "U#P002350",
+    "designation": ["QA Engineer"],
+    "role": "Tester",
+    "features": "Bug Tracking, Reports View",
+    "status": "Active",
+    "email": "rohit@example.com",
+    "phone": "+91 95678 90123",
+    "location": "Pune, India",
+    "avatar": "https://randomuser.me/api/portraits/men/56.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Neha Gupta",
+    "userId": "U#P002351",
+    "designation": ["Data Analyst"],
+    "role": "Viewer",
+    "features": "Reports View, Data Exports",
+    "status": "Inactive",
+    "email": "neha@example.com",
+    "phone": "+91 96789 01234",
+    "location": "Hyderabad, India",
+    "avatar": "https://randomuser.me/api/portraits/women/77.jpg"
+  }
+]

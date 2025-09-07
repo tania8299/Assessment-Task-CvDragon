@@ -1,0 +1,51 @@
+{
+  "chartData": {
+    "Weekly": [
+      { "month": "Week 1", "value": 8000 },
+      { "month": "Week 2", "value": 12000 },
+      { "month": "Week 3", "value": 7000 },
+      { "month": "Week 4", "value": 15000 }
+    ],
+    "Monthly": [
+      { "month": "Jan", "value": 20000 },
+      { "month": "Feb", "value": 10000 },
+      { "month": "Mar", "value": 15000 },
+      { "month": "Apr", "value": 18000 },
+      { "month": "May", "value": 30000 },
+      { "month": "Jun", "value": 25000 },
+      { "month": "Jul", "value": 50000 },
+      { "month": "Aug", "value": 10000 },
+      { "month": "Sep", "value": 12000 },
+      { "month": "Oct", "value": 15000 },
+      { "month": "Nov", "value": 22000 },
+      { "month": "Dec", "value": 28000 }
+    ],
+    "Yearly": [
+      { "month": "2020", "value": 150000 },
+      { "month": "2021", "value": 180000 },
+      { "month": "2022", "value": 220000 },
+      { "month": "2023", "value": 300000 },
+      { "month": "2024", "value": 280000 }
+    ]
+  },
+  "roomData": {
+    "Weekly": [
+      { "category": "2 BHK Double Bed", "count": 12, "rate": "50%" },
+      { "category": "4 BHK Single Bed", "count": 20, "rate": "65%" },
+      { "category": "3 BHK Double Bed", "count": 18, "rate": "70%" },
+      { "category": "2 BHK Double Bed", "count": 22, "rate": "60%" }
+    ],
+    "Monthly": [
+      { "category": "2 BHK Double Bed", "count": 34, "rate": "60%" },
+      { "category": "4 BHK Single Bed", "count": 52, "rate": "62%" },
+      { "category": "3 BHK Double Bed", "count": 42, "rate": "58%" },
+      { "category": "2 BHK Double Bed", "count": 53, "rate": "64%" }
+    ],
+    "Yearly": [
+      { "category": "2 BHK Double Bed", "count": 450, "rate": "70%" },
+      { "category": "4 BHK Single Bed", "count": 610, "rate": "68%" },
+      { "category": "3 BHK Double Bed", "count": 525, "rate": "65%" },
+      { "category": "2 BHK Double Bed", "count": 590, "rate": "72%" }
+    ]
+  }
+}

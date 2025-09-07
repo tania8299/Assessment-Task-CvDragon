@@ -1,0 +1,41 @@
+{
+  "revenue": {
+    "total": 375874,
+    "room": 5874,
+    "other": 35874
+  },
+  "transactions": [
+    {
+      "name": "Abantika Sadhukhan",
+      "role": "Student",
+      "date": "23 May, 2025",
+      "id": "#17836576",
+      "category": "Room Category 1",
+      "amount": 520
+    },
+    {
+      "name": "Abantika Sadhukhan",
+      "role": "Student",
+      "date": "23 May, 2025",
+      "id": "#78539",
+      "category": "Room Category 1",
+      "amount": 2250
+    },
+    {
+      "name": "Abantika Sadhukhan",
+      "role": "Student",
+      "date": "23 May, 2025",
+      "id": "#368356",
+      "category": "Room Category 1",
+      "amount": 4450
+    },
+    {
+      "name": "Abantika Sadhukhan",
+      "role": "Student",
+      "date": "23 May, 2025",
+      "id": "#5275583",
+      "category": "Room Category 1",
+      "amount": 4450
+    }
+  ]
+}
